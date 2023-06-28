@@ -1,0 +1,7 @@
+/Users/michaelwarrick/Desktop/SimpleCalculator/build/CMakeFiles/SimpleCalculator.dir
+/Users/michaelwarrick/Desktop/SimpleCalculator/build/CMakeFiles/edit_cache.dir
+/Users/michaelwarrick/Desktop/SimpleCalculator/build/CMakeFiles/rebuild_cache.dir
+/Users/michaelwarrick/Desktop/SimpleCalculator/build/CMakeFiles/list_install_components.dir
+/Users/michaelwarrick/Desktop/SimpleCalculator/build/CMakeFiles/install.dir
+/Users/michaelwarrick/Desktop/SimpleCalculator/build/CMakeFiles/install/local.dir
+/Users/michaelwarrick/Desktop/SimpleCalculator/build/CMakeFiles/install/strip.dir

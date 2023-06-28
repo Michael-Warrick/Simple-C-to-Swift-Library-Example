@@ -1,0 +1,4 @@
+# ninja log v5
+1	366	1687597037965409237	CMakeFiles/SimpleCalculator.dir/src/SimpleCalculator.cpp.o	aa289ae4febb39b9
+366	529	1687597038127027868	libSimpleCalculator.dylib	229d3af73d6b47bd
+1	111	1687726368306869013	build.ninja	ee8cf19cf18df959
