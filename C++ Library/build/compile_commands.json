@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/michaelwarrick/Desktop/SimpleCalculator/build",
-  "command": "/usr/bin/clang++ -DSimpleCalculator_EXPORTS -I/Users/michaelwarrick/Desktop/SimpleCalculator/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fPIC -std=gnu++20 -o CMakeFiles/SimpleCalculator.dir/src/SimpleCalculator.cpp.o -c /Users/michaelwarrick/Desktop/SimpleCalculator/src/SimpleCalculator.cpp",
-  "file": "/Users/michaelwarrick/Desktop/SimpleCalculator/src/SimpleCalculator.cpp"
-}
-]
