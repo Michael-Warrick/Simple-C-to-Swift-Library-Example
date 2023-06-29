@@ -193,11 +193,11 @@ After building, the resulting file is a `dylib` file under the name `libSimpleCa
 
 After creating a project, targeting macOS and using Swift, copy the library file manually to the project folder and then from the Finder window with the project folder open, drag the library into Xcode as though it was being dropped into the project folder once again.
 
-![](img/Adding the library.png)
+![](img/Adding\ the\ library.png)
 
 When asked ensure `Copy items if needed` is selected, `Create groups` and finally verify that the correct app is being targeted.
 
-![](img/General Build Settings.png)
+![](img/General\ Build\ Settings.png)
 
 Under `Frameworks, Libraries and Embedded Content `, change from `Do Not Embed` to `Embed & Sign`.
 
